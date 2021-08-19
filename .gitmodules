@@ -1,0 +1,6 @@
+[submodule "aristiovaldo-python"]
+	path = aristiovaldo-python
+	url = https://github.com/nphreak/aristiovaldo-python.git
+[submodule "aristiovaldo-arduino"]
+	path = aristiovaldo-arduino
+	url = https://github.com/nphreak/aristiovaldo-arduino.git
